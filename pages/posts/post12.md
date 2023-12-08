@@ -1,6 +1,6 @@
 ---
 title: إشاعة: قد يتم الكشف عن لعبة Dishonored جديدة في TGA 2023
-date: 2021/3/18
+date: 2023/12/08
 description: Dishonored News
 tag: Games
 author: King Service
