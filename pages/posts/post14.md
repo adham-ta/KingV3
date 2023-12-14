@@ -7,7 +7,7 @@ author: King Service
 ---
 is the ultimate multiplayer adventure game inspired by Minecraft! Embark on an epic journey by selecting one of four unique characters: Martha, Oliver, Mike, or Rose. Once you've chosen your character, dive right into the action and start playing with players from all over the world!
 
-offers three exciting game modes to cater to your playstyle:
+offers three exciting game modes to cater to your playstyle: soon
 
 - Peaceful Mode: In this mode, you'll face off against other players in a challenging PvP survival map. Test your skills and strategize to keep your opponents at bay while you strive to grow stronger and conquer the game.
 - Survival Mode: Immerse yourself in the survival experience, where you have the option to toggle PvP on and off. This adds a touch of flexibility, making it a more casual yet thrilling gameplay experience.
