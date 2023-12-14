@@ -19,7 +19,7 @@ author: King Service
 <iframe
   src="https://vectaria.io"
   title="Mincraft By King"
-  width="280"
+  width="340"
   height="300">
 </iframe>
 
