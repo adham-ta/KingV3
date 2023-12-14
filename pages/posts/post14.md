@@ -5,16 +5,19 @@ description: download Vectaria game
 tag: web
 author: King Service
 ---
-is the ultimate multiplayer adventure game inspired by Minecraft! Embark on an epic journey by selecting one of four unique characters: Martha, Oliver, Mike, or Rose. Once you've chosen your character, dive right into the action and start playing with players from all over the world!
+هي أفضل لعبة مغامرات متعددة اللاعبين مستوحاة من لعبة Minecraft!  انطلق في رحلة ملحمية من خلال اختيار واحدة من أربع شخصيات فريدة: مارثا أو أوليفر أو مايك أو روز.  بمجرد اختيار شخصيتك، انغمس مباشرة في الإثارة وابدأ اللعب مع لاعبين من جميع أنحاء العالم!
 
-offers three exciting game modes to cater to your playstyle:
+ يقدم ثلاثة أوضاع لعب مثيرة لتلبية أسلوب لعبك:
 
-- Peaceful Mode: In this mode, you'll face off against other players in a challenging PvP survival map. Test your skills and strategize to keep your opponents at bay while you strive to grow stronger and conquer the game.
-- Survival Mode: Immerse yourself in the survival experience, where you have the option to toggle PvP on and off. This adds a touch of flexibility, making it a more casual yet thrilling gameplay experience.
-- Creative Mode: Unleash your creativity in this mode, allowing your imagination to run wild as you build anything and everything you desire. Design impressive structures, craft magnificent landscapes, and let your artistic flair shine!
-
-The possibilities are endless in Vectaria.io, making it an exhilarating adventure for all players. So, where will you begin your journey? Choose your game mode and set forth into the enchanting world! 
-
+ الوضع السلمي: في هذا الوضع، ستواجه لاعبين آخرين في خريطة البقاء على قيد الحياة في وضع لاعب ضد لاعب (PvP) الصعبة.  اختبر مهاراتك ووضع إستراتيجيتك لإبقاء خصومك في مأزق بينما تسعى جاهدة إلى النمو بشكل أقوى وقهر اللعبة.
+ وضع البقاء على قيد الحياة: انغمس في تجربة البقاء على قيد الحياة، حيث يتوفر لك خيار تشغيل وإيقاف وضع لاعب ضد لاعب.  وهذا يضيف لمسة من المرونة، مما يجعلها تجربة لعب غير رسمية ولكنها مثيرة.
+ الوضع الإبداعي: ​​أطلق العنان لإبداعك في هذا الوضع، مما يسمح لخيالك بالانطلاق أثناء بناء أي شيء وكل ما تريده.  صمم هياكل مثيرة للإعجاب، واصنع مناظر طبيعية رائعة، ودع ذوقك الفني يتألق!
+ الاحتمالات لا حصر لها في Vectaria.io، مما يجعلها مغامرة مبهجة لجميع اللاعبين.  إذن، أين ستبدأ رحلتك؟  اختر وضع لعبتك وانطلق إلى العالم الساحر!
 [Download Link :](https://earthwallet.glide.page/dl/dcc150)
-<iframe src="https://vectaria.io">
+<iframe
+  src="https://vectaria.io"
+  title="Mincraft By King"
+  width="400"
+  height="300">
 </iframe>
+
