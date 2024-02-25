@@ -1,5 +1,5 @@
 ---
-title: تقرير: عائدات ثلاثية Tomb Raider المحسنة بلغت مليوني دولار على Steam وحده
+title: تقرير عائدات ثلاثية Tomb Raider المحسنة بلغت مليوني دولار على Steam وحده
 date: 2021/3/19
 description: إنجازات Tomb Raider
 tag: games
