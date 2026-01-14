@@ -1,10 +1,15 @@
+
 ---
+
 title: إطلاق نسخة أولية للعبة Hytale
-date: 2026/3/1
+date: 2026/1/14
 description: last News About Hytale
 tag: games
 author: NastiaTeam
+
 ---
+
+
 
 # لعبة Hytale: مغامرة sandbox مثيرة في انتظار الإصدار
 
